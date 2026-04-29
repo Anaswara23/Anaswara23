@@ -12,7 +12,7 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 - 💡 **Specializing in:** Machine Learning, Computer Vision, and Software Development
 - 🔍 **Open to Work:** Software Engineer | ML Engineer | Data Engineer
 - 🛫 **Open to Relocation**
-- 📬 Reach me at: **anaswara@gwu.edu**
+- 📬 Reach me at: **anaswara.raghuthaman@gwu.edu**
 
 ---
 
