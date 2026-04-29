@@ -2,7 +2,7 @@
 
 I'm a passionate **Software Engineer** and **Master's Student in Computer Science** at **The George Washington University**.
 
-🌐 [Portfolio](https://github.com/Anaswara23/portfolio-website2026)
+🌐 [Portfolio](https://anaswara23.github.io/portfolio-website2026/)
 
 ---
 
